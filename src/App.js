@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Machine Learning with me
+          Learn Machine Learning with me with sub
         </a>
       </header>
     </div>
